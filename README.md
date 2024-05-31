@@ -6,27 +6,44 @@ Client: React JS.\
 Server: Node JS, Express JS.\
 Database: Mongo DB.
 
-# Run Locally
-CLone the project \
-https://github.com/Professor045/LiveChatApp.git\
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/piyush-eon/mern-chat-app
+```
 
 Go to the project directory
 
-  cd LiveChatApp\
+```bash
+  cd mern-chat-app
+```
+
 Install dependencies
 
+```bash
   npm install
-  cd live-chat-client/
+```
+
+```bash
+  cd frontend/
   npm install
+```
+
 Start the server
 
+```bash
   npm run start
+```
 Start the Client
 
+```bash
   //open now terminal
-  cd live-chat-cleint
+  cd frontend
   npm start
-
+```
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

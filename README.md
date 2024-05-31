@@ -11,7 +11,7 @@ Database: Mongo DB.
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  [git clone https://github.com/Professor045/LiveChatApp.git]
 ```
 
 Go to the project directory

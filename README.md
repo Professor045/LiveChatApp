@@ -4,11 +4,28 @@ Chat application is a feature or a program on the Internet to communicate direct
 # Tech Stack 
 Client: React JS.\
 Server: Node JS, Express JS.\
-Database: Mongo DB.\
+Database: Mongo DB.
 
 # Run Locally
 CLone the project \
+https://github.com/Professor045/LiveChatApp.git\
 
+Go to the project directory
+
+  cd LiveChatApp\
+Install dependencies
+
+  npm install
+  cd live-chat-client/
+  npm install
+Start the server
+
+  npm run start
+Start the Client
+
+  //open now terminal
+  cd live-chat-cleint
+  npm start
 
 # Getting Started with Create React App
 

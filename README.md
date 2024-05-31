@@ -1,4 +1,11 @@
 # LiveChatApp
+Chat application is a feature or a program on the Internet to communicate directly among Internet users who are online or who were equally using the internet. Chat applications allow users to communicate even though from a great distance.
+
+# Tech Stack 
+Client: React JS
+Server: Node JS, Express JS
+Database: Mongo DB
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
